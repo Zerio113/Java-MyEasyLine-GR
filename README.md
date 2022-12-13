@@ -16,7 +16,7 @@
 - Langage utilisé : Java
 - Framework de présentation : JavaFX
 - Données : BDD SQL accessible sur Internet
-- Gestion du code : via Git sur un projet dédié partagé sur [GitLab.com](http://gitlab.com/) / [GitHub.com](https://github.com/)
+- Gestion du code : via Git sur un projet dédié partagé sur [GitHub.com](https://github.com/)
 
 ---
 

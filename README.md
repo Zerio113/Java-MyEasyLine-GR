@@ -1,6 +1,6 @@
 # Projet MyEasyLine
 
-# Agence de voyage 🛳
+# Agence de voyage 
 
 - Équipe
 ```

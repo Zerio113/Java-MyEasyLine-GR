@@ -1,6 +1,6 @@
 # Projet MyEasyLine
 
-# Agence de voyage 
+# Agence de voyage 🚀
 
 - Équipe
 ```
@@ -45,7 +45,7 @@ Les different solution que nous voulons serait :
 ```
 Utilisateur :
 ```
-    Voyageur 
+    Hotesse d'accueil 
 
 ```
 ---
@@ -54,18 +54,18 @@ Utilisateur :
 
 - [x]  acteurs du système :
 ```
-    Voyageur 
+    Hotesse d'accueil 
 
 
 
 ```
 - [x]  Fonctionnalités des acteurs du système :
 
-** Voyageur :**
+** Hotesse d'accueil :**
 
 Fonctionnalités :
 ```    
-    Gerer son compte 
+    Gerer le voyage du voyageur
 
     reserver un voyage en avion
 

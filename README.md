@@ -45,6 +45,7 @@ Les different solution que nous voulons serait :
 ```
 Utilisateur :
 ```
+    Pilote d'avion
     Hotesse d'accueil 
 
 ```
@@ -55,7 +56,7 @@ Utilisateur :
 - [x]  acteurs du système :
 ```
     Hotesse d'accueil 
-
+    Pilote d'avion
 
 
 ```
@@ -69,7 +70,16 @@ Fonctionnalités :
 
     reserver un voyage en avion
 
+```   
+** Pilote d'avion :**
+
+Fonctionnalités :
 ```    
+    Voir les trajets qui lui on était assigné
+    
+    
+
+```  
 
 - [X]  Diagramme de cas d'utilisation
 
